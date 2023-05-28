@@ -1,0 +1,14 @@
+.nav {
+  width: 24vw;
+  margin: auto;
+  border-radius: 0.5rem;
+  background-color:#bedaee;
+  box-shadow: 0 0 2px 3px #878787;
+}
+.nav h1 {
+  text-shadow: 2px 2px rgb(130 155 221 / 65%);
+  color:blue;
+  padding: 0.3rem;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
